@@ -1,0 +1,18 @@
+p{
+    color:blueviolet;
+}
+h3{
+    color:magenta;
+}
+.page-title{
+    font-weight: 900;
+}
+.header{
+    height: 200px;
+    background-image: url('../images/nature.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: top right;
+    background-color: gray;
+    background-blend-mode: multiply;
+}
